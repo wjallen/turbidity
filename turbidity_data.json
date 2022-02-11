@@ -1798,6 +1798,13 @@
       "calibration_constant": 1.027,
       "detector_current": 1.165,
       "analyzed_by": "A. Mendoza"
+    },
+    {
+      "datetime": "2022-02-11 17:00",
+      "sample_volume": 1.16,
+      "calibration_constant": 0.98,
+      "detector_current": 1.1260000000000001,
+      "analyzed_by": "A. Mendoza"
     }
   ]
 }
