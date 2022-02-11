@@ -1763,6 +1763,13 @@
       "calibration_constant": 0.984,
       "detector_current": -1.1720000000000002,
       "analyzed_by": "E. Oopsdonnell"
+    },
+    {
+      "datetime": "2022-02-11 12:00",
+      "sample_volume": 1.17,
+      "calibration_constant": 0.952,
+      "detector_current": 1.103,
+      "analyzed_by": "C. Milligan"
     }
   ]
 }
