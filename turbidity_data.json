@@ -2008,6 +2008,13 @@
       "calibration_constant": 0.962,
       "detector_current": 1.195,
       "analyzed_by": "A. Mendoza"
+    },
+    {
+      "datetime": "2022-02-12 23:00",
+      "sample_volume": 1.22,
+      "calibration_constant": 0.998,
+      "detector_current": 1.1560000000000001,
+      "analyzed_by": "J. Maertz"
     }
   ]
 }
