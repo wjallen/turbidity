@@ -2015,6 +2015,13 @@
       "calibration_constant": 0.998,
       "detector_current": 1.1560000000000001,
       "analyzed_by": "J. Maertz"
+    },
+    {
+      "datetime": "2022-02-13 00:00",
+      "sample_volume": 1.23,
+      "calibration_constant": 1.048,
+      "detector_current": 1.104,
+      "analyzed_by": "C. Kight"
     }
   ]
 }
