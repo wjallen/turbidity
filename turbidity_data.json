@@ -2246,6 +2246,13 @@
       "calibration_constant": 0.973,
       "detector_current": 1.133,
       "analyzed_by": "B. Rossi"
+    },
+    {
+      "datetime": "2022-02-14 09:00",
+      "sample_volume": 1.15,
+      "calibration_constant": 1.034,
+      "detector_current": 1.1260000000000001,
+      "analyzed_by": "R. Zhang"
     }
   ]
 }
