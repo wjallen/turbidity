@@ -2204,6 +2204,13 @@
       "calibration_constant": 1.017,
       "detector_current": 1.1380000000000001,
       "analyzed_by": "C. Milligan"
+    },
+    {
+      "datetime": "2022-02-14 03:00",
+      "sample_volume": 1.22,
+      "calibration_constant": 0.999,
+      "detector_current": 1.1420000000000001,
+      "analyzed_by": "B. Rossi"
     }
   ]
 }
