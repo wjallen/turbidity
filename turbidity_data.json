@@ -2344,6 +2344,13 @@
       "calibration_constant": 1.02,
       "detector_current": 1.187,
       "analyzed_by": "S. Chaves"
+    },
+    {
+      "datetime": "2022-02-14 23:00",
+      "sample_volume": 1.21,
+      "calibration_constant": 0.983,
+      "detector_current": 1.199,
+      "analyzed_by": "K. Judkins"
     }
   ]
 }
