@@ -1073,23 +1073,23 @@
     },
     {
       "datetime": "2023-02-07 09:00",
-      "sample_volume": 1.23,
-      "calibration_constant": 1.02,
-      "detector_current": -1.1400000000000001,
+      "sample_volume": 1.15,
+      "calibration_constant": 0.992,
+      "detector_current": -1.11,
       "analyzed_by": "E. Oopsdonnell"
     },
     {
       "datetime": "2023-02-07 10:00",
       "sample_volume": 1.21,
-      "calibration_constant": 1.031,
-      "detector_current": 1.108,
-      "analyzed_by": "C. Milligan"
+      "calibration_constant": 1.025,
+      "detector_current": 1.112,
+      "analyzed_by": "J. Maertz"
     },
     {
       "datetime": "2023-02-07 11:00",
       "sample_volume": 1.18,
-      "calibration_constant": 0.983,
-      "detector_current": 1.177,
+      "calibration_constant": 1.03,
+      "detector_current": 1.107,
       "analyzed_by": "R. Zhang"
     }
   ]
