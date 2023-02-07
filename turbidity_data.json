@@ -1073,24 +1073,24 @@
     },
     {
       "datetime": "2023-02-07 09:00",
-      "sample_volume": 1.21,
-      "calibration_constant": 0.955,
-      "detector_current": -1.1480000000000001,
+      "sample_volume": 1.23,
+      "calibration_constant": 1.02,
+      "detector_current": -1.1400000000000001,
       "analyzed_by": "E. Oopsdonnell"
     },
     {
       "datetime": "2023-02-07 10:00",
-      "sample_volume": 1.23,
-      "calibration_constant": 1.043,
-      "detector_current": 1.106,
-      "analyzed_by": "B. Rossi"
+      "sample_volume": 1.21,
+      "calibration_constant": 1.031,
+      "detector_current": 1.108,
+      "analyzed_by": "C. Milligan"
     },
     {
       "datetime": "2023-02-07 11:00",
       "sample_volume": 1.18,
-      "calibration_constant": 1.028,
-      "detector_current": -1.1740000000000002,
-      "analyzed_by": "E. Oopsdonnell"
+      "calibration_constant": 0.983,
+      "detector_current": 1.177,
+      "analyzed_by": "R. Zhang"
     }
   ]
 }
