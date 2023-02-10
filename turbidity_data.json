@@ -1588,6 +1588,13 @@
       "calibration_constant": 1.047,
       "detector_current": -1.115,
       "analyzed_by": "E. Oopsdonnell"
+    },
+    {
+      "datetime": "2023-02-10 11:00",
+      "sample_volume": 1.24,
+      "calibration_constant": 0.985,
+      "detector_current": 1.157,
+      "analyzed_by": "F. Zhou"
     }
   ]
 }
