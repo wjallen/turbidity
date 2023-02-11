@@ -1658,6 +1658,13 @@
       "calibration_constant": 1.029,
       "detector_current": 1.147,
       "analyzed_by": "C. Kight"
+    },
+    {
+      "datetime": "2023-02-10 21:00",
+      "sample_volume": 1.18,
+      "calibration_constant": 1.011,
+      "detector_current": 1.111,
+      "analyzed_by": "A. Mendoza"
     }
   ]
 }
