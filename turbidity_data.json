@@ -1854,6 +1854,13 @@
       "calibration_constant": 0.983,
       "detector_current": 1.181,
       "analyzed_by": "J. Maertz"
+    },
+    {
+      "datetime": "2023-02-12 01:00",
+      "sample_volume": 1.22,
+      "calibration_constant": 1.006,
+      "detector_current": 1.1880000000000002,
+      "analyzed_by": "C. Kight"
     }
   ]
 }
