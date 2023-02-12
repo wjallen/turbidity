@@ -1819,6 +1819,13 @@
       "calibration_constant": 1.015,
       "detector_current": 1.117,
       "analyzed_by": "S. Chaves"
+    },
+    {
+      "datetime": "2023-02-11 20:00",
+      "sample_volume": 1.21,
+      "calibration_constant": 0.962,
+      "detector_current": 1.173,
+      "analyzed_by": "C. Kight"
     }
   ]
 }
