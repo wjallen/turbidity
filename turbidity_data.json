@@ -2253,6 +2253,13 @@
       "calibration_constant": 0.96,
       "detector_current": -1.187,
       "analyzed_by": "E. Oopsdonnell"
+    },
+    {
+      "datetime": "2023-02-14 10:00",
+      "sample_volume": 1.22,
+      "calibration_constant": 1.047,
+      "detector_current": 1.163,
+      "analyzed_by": "S. Chaves"
     }
   ]
 }
