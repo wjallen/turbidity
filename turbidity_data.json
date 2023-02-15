@@ -2365,6 +2365,13 @@
       "calibration_constant": 0.998,
       "detector_current": 1.1300000000000001,
       "analyzed_by": "K. Judkins"
+    },
+    {
+      "datetime": "2023-02-15 02:00",
+      "sample_volume": 1.17,
+      "calibration_constant": 1.031,
+      "detector_current": 1.1600000000000001,
+      "analyzed_by": "K. Judkins"
     }
   ]
 }
