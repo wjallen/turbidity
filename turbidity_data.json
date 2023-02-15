@@ -2463,6 +2463,13 @@
       "calibration_constant": 0.98,
       "detector_current": 1.123,
       "analyzed_by": "S. Chaves"
+    },
+    {
+      "datetime": "2023-02-15 16:00",
+      "sample_volume": 1.23,
+      "calibration_constant": 1.017,
+      "detector_current": 1.1540000000000001,
+      "analyzed_by": "S. Chaves"
     }
   ]
 }
