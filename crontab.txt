@@ -1,0 +1,4 @@
+
+# coe332
+24 * * * * cd /home/wallen/turbidity && ./generate_turbidity_data.py && git add turbidity_data.json && git commit -m 'hourly update' && git push
+
